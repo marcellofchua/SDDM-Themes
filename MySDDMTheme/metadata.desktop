@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=My-SDDM-Theme
+Description=My first SDDM theme.
+Author=marcello.f.chua
+Copyright=
+License=
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=screenshot.png
+MainScript=Main.qml
+Theme-Id=mysddmtheme
+Theme-API=2.0
