@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=OmoriTheme
+Description=Simple Omori theme, no reboot or shutdown buttons. Sorry, still new to this and don't quite understand the copyright or licensing.
+Author=marcello.f.chua
+Copyright=
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=screenshot.png
+MainScript=Main.qml
+Theme-Id=
+Theme-API=2.0
